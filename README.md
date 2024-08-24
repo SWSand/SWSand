@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Class Person():<br><br>  def __init__(self) <br><br>self.Practical_&_Functional_Design<br>self.EFI_Tuning<br>self.Cars_&_Coffee<br><br><br>def get_my_Doge_doggo_name():<br><br>return "My shib's name is Hashi!"<br><br># Short for Hashira...can you guess where the name comes from?</h4>
+<h4 align="left">Class Developer():<br><br>  def __init__(self) <br><br>self.Practical_&_Functional_Design<br>self.EFI_Tuning<br>self.Cars_&_Coffee<br><br><br>def get_my_Doge_doggo_name():<br><br>return "My shib's name is Hashi!"<br><br># Short for Hashira...can you guess where the name comes from?</h4>
 
 ###
 
