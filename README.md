@@ -1,4 +1,4 @@
-<h1 align="left">My name is Jose, and I like pineapple on pepperoni pizza :)</h1>
+<h1 align="left">My name is Jose :)</h1>
 
 ###
 
